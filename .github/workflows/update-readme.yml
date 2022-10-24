@@ -1,7 +1,4 @@
 name: Update README
-title: Mahir
-
-
 on:
   schedule:
     - cron: '*/10 * * * *'

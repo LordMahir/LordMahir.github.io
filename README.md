@@ -1,4 +1,4 @@
-# Aur bhai<img src="Hi.gif"  width="29px" height="29px">
+# Aur bhai <img src="Hi.gif"  width="29px" height="29px">
 
 
 - 🔭 I'm learning about Data Structures and Algorithms(DSA)

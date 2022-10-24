@@ -1,5 +1,4 @@
 name: Generate Datas
-title: Mahir
 
 on:
   schedule: # execute every 10 minutes
