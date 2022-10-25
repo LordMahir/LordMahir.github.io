@@ -1,6 +1,6 @@
 # Aur bhai <img src="Hi.gif"  width="29px" height="29px">
 
-
+- Mai best huuhuhuhhhu
 - 🔭 I'm learning about Data Structures and Algorithms(DSA)
 - 👯 I’m looking to participating in hackathons
 - 💞️ Contributing to open source is something I'm loving these days
@@ -12,8 +12,6 @@
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=uday03meh&count_private=true&theme=radical&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
-   
-
    
 
 ## Languages and Tools:
@@ -52,25 +50,4 @@
 <a href="https://github.com/uday03meh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59679281/195826962-6fbe361f-0e78-4448-b74d-9d531bfd077a.png" alt="uday's github" height="40" width="40" /></a>
 </p>
 
-<!--
-
-README IMPROVEMENT 
-my domains:
-https://udaymehtani.github.io/
-https://uday-mehtani.github.io/
-https://uday03meh.github.io/
-
-https://github.com/rzashakeri/beautify-github-profile
-
-https://twitter.com/PriteshKiri/status/1577154041032937472?t=kOL7GSaz5-EIWzWcmWn9Rg&s=08
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/?s=08
-
-https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
-
-Idea for icons:
-use both type of icons with square ones above label icons and give same width to both, use them as images and not as links
-
-Try out more github stats and github actions for page deployment
--->
 
