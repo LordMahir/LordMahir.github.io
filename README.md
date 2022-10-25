@@ -32,11 +32,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#582](https://github.com/fineanmol/hacktoberfest/pull/582) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-2. 🗣 Commented on [#165](https://github.com/KamandPrompt/baat-cheet/issues/165) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
-3. 💪 Opened PR [#39](https://github.com/akasakaid/your-program/pull/39) in [akasakaid/your-program](https://github.com/akasakaid/your-program)
-4. 🗣 Commented on [#5](https://github.com/fineanmol/hacktoberfest/issues/5) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-5. 🗣 Commented on [#350](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/350) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
+1. 🗣 Commented on [#401](https://github.com/arin2002/Coding-questions/issues/401) in [arin2002/Coding-questions](https://github.com/arin2002/Coding-questions)
+2. 💪 Opened PR [#582](https://github.com/fineanmol/hacktoberfest/pull/582) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+3. 🗣 Commented on [#165](https://github.com/KamandPrompt/baat-cheet/issues/165) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+4. 💪 Opened PR [#39](https://github.com/akasakaid/your-program/pull/39) in [akasakaid/your-program](https://github.com/akasakaid/your-program)
+5. 🗣 Commented on [#5](https://github.com/fineanmol/hacktoberfest/issues/5) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
