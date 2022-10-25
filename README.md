@@ -30,11 +30,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/uday03meh/password-generator/issues/9) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-2. 🎉 Merged PR [#10](https://github.com/uday03meh/password-generator/pull/10) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-3. 🗣 Commented on [#10](https://github.com/uday03meh/password-generator/issues/10) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-4. 🗣 Commented on [#2](https://github.com/uday03meh/business-card/issues/2) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
-5. 🎉 Merged PR [#2](https://github.com/uday03meh/business-card/pull/2) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
+1. 💪 Opened PR [#582](https://github.com/fineanmol/hacktoberfest/pull/582) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+2. 🗣 Commented on [#165](https://github.com/KamandPrompt/baat-cheet/issues/165) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+3. 💪 Opened PR [#39](https://github.com/akasakaid/your-program/pull/39) in [akasakaid/your-program](https://github.com/akasakaid/your-program)
+4. 🗣 Commented on [#5](https://github.com/fineanmol/hacktoberfest/issues/5) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+5. 🗣 Commented on [#350](https://github.com/SauravMukherjee44/CodeIN-Community-Website/issues/350) in [SauravMukherjee44/CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
