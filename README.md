@@ -32,11 +32,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#401](https://github.com/arin2002/Coding-questions/issues/401) in [arin2002/Coding-questions](https://github.com/arin2002/Coding-questions)
-2. 💪 Opened PR [#549](https://github.com/arin2002/Coding-questions/pull/549) in [arin2002/Coding-questions](https://github.com/arin2002/Coding-questions)
+1. 🗣 Commented on [#144](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/issues/144) in [YoshithaRathnayake/CALCULATOR-WEBSITE](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE)
+2. 🗣 Commented on [#122](https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE/issues/122) in [YoshithaRathnayake/NEW-YOSHITHA-WEBSITE](https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE)
 3. 🗣 Commented on [#401](https://github.com/arin2002/Coding-questions/issues/401) in [arin2002/Coding-questions](https://github.com/arin2002/Coding-questions)
-4. 💪 Opened PR [#582](https://github.com/fineanmol/hacktoberfest/pull/582) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-5. 🗣 Commented on [#165](https://github.com/KamandPrompt/baat-cheet/issues/165) in [KamandPrompt/baat-cheet](https://github.com/KamandPrompt/baat-cheet)
+4. 💪 Opened PR [#549](https://github.com/arin2002/Coding-questions/pull/549) in [arin2002/Coding-questions](https://github.com/arin2002/Coding-questions)
+5. 🗣 Commented on [#401](https://github.com/arin2002/Coding-questions/issues/401) in [arin2002/Coding-questions](https://github.com/arin2002/Coding-questions)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
