@@ -32,11 +32,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/SnTC-IITMandi/Gymkhana-IITMandi/pull/40) in [SnTC-IITMandi/Gymkhana-IITMandi](https://github.com/SnTC-IITMandi/Gymkhana-IITMandi)
-2. 💪 Opened PR [#8](https://github.com/SnTC-IITMandi/ControlPortal/pull/8) in [SnTC-IITMandi/ControlPortal](https://github.com/SnTC-IITMandi/ControlPortal)
-3. 🗣 Commented on [#144](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/issues/144) in [YoshithaRathnayake/CALCULATOR-WEBSITE](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE)
-4. 🗣 Commented on [#122](https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE/issues/122) in [YoshithaRathnayake/NEW-YOSHITHA-WEBSITE](https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE)
-5. 🗣 Commented on [#401](https://github.com/arin2002/Coding-questions/issues/401) in [arin2002/Coding-questions](https://github.com/arin2002/Coding-questions)
+1. ❌ Closed PR [#582](https://github.com/fineanmol/hacktoberfest/pull/582) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+2. ❌ Closed PR [#127](https://github.com/sj5027052/Hactoberfest2022/pull/127) in [sj5027052/Hactoberfest2022](https://github.com/sj5027052/Hactoberfest2022)
+3. 💪 Opened PR [#40](https://github.com/SnTC-IITMandi/Gymkhana-IITMandi/pull/40) in [SnTC-IITMandi/Gymkhana-IITMandi](https://github.com/SnTC-IITMandi/Gymkhana-IITMandi)
+4. 💪 Opened PR [#8](https://github.com/SnTC-IITMandi/ControlPortal/pull/8) in [SnTC-IITMandi/ControlPortal](https://github.com/SnTC-IITMandi/ControlPortal)
+5. 🗣 Commented on [#144](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE/issues/144) in [YoshithaRathnayake/CALCULATOR-WEBSITE](https://github.com/YoshithaRathnayake/CALCULATOR-WEBSITE)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
