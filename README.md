@@ -32,11 +32,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/RobotronicsClubIITMandi/URC_Mars_Rover/pull/8) in [RobotronicsClubIITMandi/URC_Mars_Rover](https://github.com/RobotronicsClubIITMandi/URC_Mars_Rover)
-2. ❌ Closed PR [#582](https://github.com/fineanmol/hacktoberfest/pull/582) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-3. ❌ Closed PR [#127](https://github.com/sj5027052/Hactoberfest2022/pull/127) in [sj5027052/Hactoberfest2022](https://github.com/sj5027052/Hactoberfest2022)
-4. 💪 Opened PR [#40](https://github.com/SnTC-IITMandi/Gymkhana-IITMandi/pull/40) in [SnTC-IITMandi/Gymkhana-IITMandi](https://github.com/SnTC-IITMandi/Gymkhana-IITMandi)
-5. 💪 Opened PR [#8](https://github.com/SnTC-IITMandi/ControlPortal/pull/8) in [SnTC-IITMandi/ControlPortal](https://github.com/SnTC-IITMandi/ControlPortal)
+1. 💪 Opened PR [#9](https://github.com/RobotronicsClubIITMandi/URC_Mars_Rover/pull/9) in [RobotronicsClubIITMandi/URC_Mars_Rover](https://github.com/RobotronicsClubIITMandi/URC_Mars_Rover)
+2. 💪 Opened PR [#8](https://github.com/RobotronicsClubIITMandi/URC_Mars_Rover/pull/8) in [RobotronicsClubIITMandi/URC_Mars_Rover](https://github.com/RobotronicsClubIITMandi/URC_Mars_Rover)
+3. ❌ Closed PR [#582](https://github.com/fineanmol/hacktoberfest/pull/582) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+4. ❌ Closed PR [#127](https://github.com/sj5027052/Hactoberfest2022/pull/127) in [sj5027052/Hactoberfest2022](https://github.com/sj5027052/Hactoberfest2022)
+5. 💪 Opened PR [#40](https://github.com/SnTC-IITMandi/Gymkhana-IITMandi/pull/40) in [SnTC-IITMandi/Gymkhana-IITMandi](https://github.com/SnTC-IITMandi/Gymkhana-IITMandi)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
